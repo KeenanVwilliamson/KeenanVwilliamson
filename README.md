@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KeenanVwilliamson
 - 👀 I’m interested in ... Web Development, Mobile developement and AI engieering.
-- 🌱 I’m currently learning ... Full Stack developement. 
+- 🌱 I’m currently learning ...IOS Mobile developement. 
 - 💞️ I’m looking to collaborate on ... Any project
 - 📫 How to reach me ... keenanwilliamson11@gmail.com
 
